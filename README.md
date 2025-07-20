@@ -121,9 +121,9 @@
 
 ## 🔗 Ссылки на проект
 
-- [Исходные данные](https://drive.google.com/drive/folders/1rA4o6KHH-M2KMvBLHp5DZ5gioF2q7hZw) 
+- [Исходные данные]([https://drive.google.com/drive/folders/1rA4o6KHH-M2KMvBLHp5DZ5gioF2q7hZw](https://drive.google.com/file/d/1vLrUnoIlQ6UgzzdDFM-zI43g9fl0RjIx/view?usp=sharing) и https://drive.google.com/file/d/1R1kc9Crjz-MEMFphYidexfrCiViBMpih/view?usp=sharing) 
 - [GitHub репозиторий (пример)](https://github.com/yourname/sberautopodpiska-analysis )
-- [Jupyter Notebook с полным анализом (ipynb)](https://github.com/yourname/sberautopodpiska-analysis/blob/main/analysis.ipynb )
+- [Jupyter Notebook с полным анализом (ipynb)]([https://github.com/yourname/sberautopodpiska-analysis/blob/main/analysis.ipynb](https://github.com/sergey-kurguzkin/Data-Analyst-Portfolio/blob/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B%20%D0%B2%20%D1%81%D0%BE%D1%86%D1%81%D0%B5%D1%82%D1%8F%D1%85%20%D0%BD%D0%B0%20%D1%81%D0%B0%D0%B9%D1%82%D0%B5%20%D0%A1%D0%B1%D0%B5%D1%80%D0%90%D0%B2%D1%82%D0%BE%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%BA%D0%B8.ipynb) )
 
 ---
 
