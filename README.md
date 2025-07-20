@@ -272,7 +272,7 @@
 
 ---
 
-## 🔗 Ссылки на проект
+## 🔗 Ссылка на проект
 
 - [Папка с проектом]([https://drive.google.com/drive/folders/1p_-oGYUSt9agOwDUio4mxlnu2ZCKYnIy?usp=drive_link])
 
