@@ -121,7 +121,7 @@
 
 ## 🔗 Ссылка на проект
 
-- [Папка с проектом]([https://drive.google.com/drive/folders/1duoB_JkARbCM64xQXZojyCtQ6AZpqo3w?usp=drive_link]) 
+- [Папка с проектом]([https://drive.google.com/drive/folders/1duoB_JkARbCM64xQXZojyCtQ6AZpqo3w?usp=drive_link ]) 
 
 ---
 
@@ -274,7 +274,7 @@
 
 ## 🔗 Ссылка на проект
 
-- [Папка с проектом]([https://drive.google.com/drive/folders/1p_-oGYUSt9agOwDUio4mxlnu2ZCKYnIy?usp=drive_link])
+- [Папка с проектом]([https://drive.google.com/drive/folders/1p_-oGYUSt9agOwDUio4mxlnu2ZCKYnIy?usp=drive_link ])
 
 ---
 
